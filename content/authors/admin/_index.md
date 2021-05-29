@@ -64,7 +64,7 @@ email: "haosyzjsu@163.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haoxin Ye is an undergraduate of food safety and quality at Zhejiang Gongshang University (ZJSU). His research interests include nutrient embedding and delivery, food colloids and food emulsions. He has lead and took part in several research projects launched by professors in ZJSU and Chinese Ministry of Education. He has also submitted SCI papers in areas of microemulsions and nutrient embedding and delivery. Besides keeping a high GPA, he actively takes part in several campus organizations and wins many competition honors as a leader.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
