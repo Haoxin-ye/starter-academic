@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon：apple
-  icon_pack: fa
+  icon：500px
+  icon_pack: fab
   name: Positive
 - description: 100%
   icon: chart-line
