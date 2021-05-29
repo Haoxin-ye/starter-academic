@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon：500px
+  icon：fa-500px
   icon_pack: fab
   name: Positive
 - description: 100%
